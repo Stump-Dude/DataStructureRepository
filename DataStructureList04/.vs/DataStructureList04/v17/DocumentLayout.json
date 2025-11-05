@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\",
+  "WorkspaceRootPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E1DEDA0-8624-452B-9BE2-D23D9B3A958D}|DataStructureList04\\DataStructureList04.csproj|c:\\users\\puchk\\desktop\\c#andandroid\\datastructurelist04\\datastructurelist04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1DEDA0-8624-452B-9BE2-D23D9B3A958D}|DataStructureList04\\DataStructureList04.csproj|c:\\users\\puchk\\desktop\\c#andandroid\\datastructurerepository\\datastructurelist04\\datastructurelist04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1DEDA0-8624-452B-9BE2-D23D9B3A958D}|DataStructureList04\\DataStructureList04.csproj|solutionrelative:datastructurelist04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\Program.cs",
               "RelativeDocumentMoniker": "DataStructureList04\\Program.cs",
-              "ToolTip": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\Program.cs",
-              "RelativeToolTip": "DataStructureList04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\Program.cs*",
+              "RelativeToolTip": "DataStructureList04\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T12:01:02.041Z",
               "EditorCaption": ""

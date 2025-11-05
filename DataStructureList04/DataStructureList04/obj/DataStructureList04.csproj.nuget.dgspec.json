@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj": {}
+    "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj": {
+    "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj",
+        "projectUniqueName": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj",
         "projectName": "DataStructureList04",
-        "projectPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj",
+        "projectPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\DataStructureList04.csproj",
         "packagesPath": "C:\\Users\\puchk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureList04\\DataStructureList04\\obj\\",
+        "outputPath": "C:\\Users\\puchk\\Desktop\\C#ANDandroid\\DataStructureRepository\\DataStructureList04\\DataStructureList04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
